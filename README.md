@@ -28,5 +28,3 @@ Networking Intern @ Juniper Networks (Virtual Internship)
 📫 Let’s Connect!
 
 📧 boorada.vishnuteja.dev@gmail.com
-
-🌐 LinkedIn | LeetCode | HackerRank
