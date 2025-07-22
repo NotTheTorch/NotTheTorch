@@ -28,3 +28,5 @@ Networking Intern @ Juniper Networks (Virtual Internship)
 📫 Let’s Connect!
 
 📧 boorada.vishnuteja.dev@gmail.com
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotTheTorch&layout=compact&theme=github_dark)
