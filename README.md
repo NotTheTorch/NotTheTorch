@@ -24,9 +24,3 @@ Deep Learning Intern @ DataValley (TensorFlow, CV & NLP)
 Networking Intern @ Juniper Networks (Virtual Internship)
 
 📚 Constantly learning — DSA, OS, DBMS, AI, Cybersecurity — and refining my skills through certifications and hands-on projects.
-
-
-## 📊 GitHub Stats
-
-![Vishnu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NotTheTorch&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotTheTorch&layout=compact&theme=github_dark)
